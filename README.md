@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-TypeScript   11 hrs 9 mins   ███████████████████▓░░░░░   78.06 %
-JavaScript   1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CSS          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-TSConfig     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+TypeScript   14 hrs 57 mins  ████████████████████░░░░░   79.88 %
+CSS          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+JavaScript   1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+TSConfig     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
