@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
 Vue.js        39 hrs 32 mins  █████████████████████░░░░   84.13 %
 JSON          2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
